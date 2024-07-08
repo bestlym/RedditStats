@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "RedditStats.Controllers.StatsController",
+    "Method": "GetTopPosts",
+    "RelativePath": "api/Stats/topposts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RedditStats.Controllers.StatsController",
+    "Method": "GetTopUsers",
+    "RelativePath": "api/Stats/topusers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
